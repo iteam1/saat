@@ -1,2 +1,2 @@
 # SAT
-segmentation_auto_tool
+segmentation auto tool
