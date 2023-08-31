@@ -1,2 +1,2 @@
-# SAT
-segmentation auto tool
+# saat
+segment anything annotation tool
